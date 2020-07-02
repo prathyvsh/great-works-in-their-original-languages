@@ -1,0 +1,71 @@
+* Greek
+
+* Latin
+
+** Francis Bacon
+
+*** De Sapientia Veterum
+
+* German
+
+** Leibniz
+
+** Gauss
+
+** Grassmann
+
+** Cantor
+
+** Dedekind
+
+** Schröder
+
+** Riemann
+
+** Frege
+
+** Hilbert
+
+** Hausdorff
+
+** Klein
+
+** Neumann
+
+** Gödel
+
+** Gentzen
+
+** Weyl
+
+* French
+
+** Euler
+
+*** Introductio in Analysin Infinitorum
+
+** Descartes
+
+** Pascal
+
+** Cauchy
+
+*** Analyse algébrique (1821)
+
+** Fourier
+
+** Galois
+
+** Laplace
+
+** Couturat
+
+** Henri Poincaré
+
+** Bourbaki
+
+** Grothendieck
+
+** Girard
+
+* Russian
